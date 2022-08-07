@@ -13,7 +13,7 @@ module.exports = {
     siteUrl: `https://wonderbreed.com`,
     siteDescription: `NFT breeding made simple`,
     siteLanguage: `en`,
-    siteImage: `/banner.jpg`,
+    siteImage: `/wonderbreed-logo-small.png`,
     author: `@MetavrsAllStars`,
   },
   plugins: [
